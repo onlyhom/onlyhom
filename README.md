@@ -1,8 +1,14 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/SUXA0OMRHmxvuHUla7/giphy.gif" width="50"></h2>
+
+<img align='right' src='https://media.giphy.com/media/oFRZcmbND30HlIAvND/giphy.gif' width='200'>
+
+A Web developer🎯 from China.
+- 🔭 I’m currently working on NextJS, React, Canvas.
+- 🌱 I’m currently learning ...
+- 📝 [Resume]()
+
 
 <!--
-**onlyhom/onlyhom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
