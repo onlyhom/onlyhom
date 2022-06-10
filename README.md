@@ -1,11 +1,13 @@
 ### Hi there <img src="https://media.giphy.com/media/SUXA0OMRHmxvuHUla7/giphy.gif" width="50"></h2>
 
-<img align='right' src='https://media.giphy.com/media/oFRZcmbND30HlIAvND/giphy.gif' width='200'>
+<img align='right' src='https://media.giphy.com/media/oFRZcmbND30HlIAvND/giphy.gif' width='250'>
 
 A Web developer🎯 from China.
 - 🔭 I’m currently working on NextJS, React, Canvas.
 - 🌱 I’m currently learning ...
 - 📝 [Resume]()
+
+![github stats](https://github-readme-stats.vercel.app/api?username=onlyhom&show_icons=true)
 
 
 <!--
