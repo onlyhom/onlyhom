@@ -1,6 +1,12 @@
-### Hi there <img src="https://media.giphy.com/media/SUXA0OMRHmxvuHUla7/giphy.gif" width="50"></h2>
 
-<img align='right' src='https://media.giphy.com/media/oFRZcmbND30HlIAvND/giphy.gif' width='250'>
+
+
+<h2>Hi there</h2>
+
+<img src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" width="110"/><img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="110" />
+
+
+<img align="right" src="https://i.giphy.com/media/xT9Igs0evvlM6OiZ7a/giphy-downsized.gif" width="300" />
 
 A Web developer🎯 from China.
 - 🔭 I’m currently working on NextJS, React, Canvas.
