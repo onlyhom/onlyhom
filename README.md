@@ -4,12 +4,12 @@
 ### Hi there <img src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" width="90"/><img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="90" />
 
 
-<img align="right" src="https://i.giphy.com/media/xT9Igs0evvlM6OiZ7a/giphy-downsized.gif" width="240" />
+<img align="right" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="320" />
 
 A Web developer🎯 from China.
 - 🔭 I’m currently working on NextJS, React, Canvas.
 - 🌱 I’m currently learning ...
-- 📝 [Resume]()
+<!-- - 📝 [Resume]() -->
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=onlyhom&show_icons=true)
 
